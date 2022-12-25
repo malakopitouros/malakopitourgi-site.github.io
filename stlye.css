@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    background-color: palevioletred;
+}
+
+.btn-center {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+.yes-btn {
+    width: 200px;
+    height: 60px;
+    background: none;
+    border: 1px solid black;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.yes-btn:hover {
+    background-color: orange;
+    border: none;
+    transition: 0.3s;
+}
+
+.number {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.patata {
+    font-family: 'Roboto', sans-serif;
+
+}
