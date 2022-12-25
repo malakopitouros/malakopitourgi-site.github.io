@@ -19,6 +19,7 @@ body {
     background: none;
     border: 1px solid black;
     font-family: 'Roboto', sans-serif;
+    cursor: pointer;
 
 }
 
